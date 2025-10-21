@@ -1,4 +1,4 @@
-# 🏦 Sistema Bancário - BankSystem
+# 🏦 BankSystem
 
 Sistema bancário moderno e responsivo desenvolvido para demonstração de conceitos de gestão de configuração de software e interface de usuário.
 
@@ -217,18 +217,18 @@ PROJETO_SISTEMA_BANCO/
 └── CHANGELOG.md                          # Histórico de mudanças
 ```
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Instalação
 
 1. Clone o repositório ou baixe os arquivos
 ```bash
-git clone https://github.com/seu-usuario/sistema-bancario.git
+git clone https://github.com/seu-usuario/bank-system.git
 ```
 
 2. Navegue até o diretório do projeto
 ```bash
-cd sistema-bancario
+cd bank-system
 ```
 
 3. Abra o arquivo `index.html` em seu navegador
@@ -250,7 +250,7 @@ Ou clique no link "Login Fake" na tela de login para preenchimento automático.
 4. Visualize o saldo e transações recentes
 5. Teste a responsividade redimensionando a janela do navegador
 
-## 📄 Documentação
+## Documentação
 
 ### Gestão de Configuração
 
@@ -273,7 +273,7 @@ O projeto segue rigorosas práticas de gestão de configuração:
 - **identificacao_configuracao.txt**: Itens de configuração identificados
 - **dsm_solicitacao_mudanca.txt**: Controle de mudanças
 
-## 🔒 Segurança
+## Segurança
 
 ⚠️ **IMPORTANTE**: Este é um sistema de demonstração.
 
@@ -283,7 +283,7 @@ O projeto segue rigorosas práticas de gestão de configuração:
 - Não implementa criptografia real
 - Sem persistência de dados (usa apenas memória)
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - Demonstrar interface moderna de sistema bancário
 - Implementar responsividade completa
@@ -291,24 +291,24 @@ O projeto segue rigorosas práticas de gestão de configuração:
 - Criar ambiente de testes com Login Fake
 - Documentar adequadamente o projeto
 
-## 📝 Versão
+## Versão
 
 **Versão Atual:** v1.0  
 **Data:** 20/10/2025  
 **Tipo:** Evolutiva
 
-## 👥 Contribuindo
+## Contribuindo
 
 Este é um projeto educacional. Sugestões e melhorias são bem-vindas.
 
-## 📧 Contato
+## Contato
 
 Para dúvidas ou sugestões sobre o projeto, entre em contato.
 
-## 📜 Licença
+## Licença
 
 Este projeto é de uso educacional e demonstrativo.
 
 ---
 
-**Desenvolvido com foco em boas práticas de desenvolvimento web e gestão de configuração de software.**
+**Desenvolvido com foco em boas práticas de Gerência de Configuração e Mudanças .**
