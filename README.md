@@ -4,13 +4,13 @@ Sistema bancário moderno e responsivo desenvolvido para demonstração de conce
 
 ## Descrição
 
-Este projeto apresenta uma interface web completa de um sistema bancário fictício, incluindo tela de login com autenticação fake para testes e um painel de usuário com funcionalidades essenciais de operações bancárias. O sistema foi desenvolvido seguindo as melhores práticas de gestão de configuração de software.
+Este projeto apresenta uma interface web completa de um sistema bancário fictício, incluindo tela de login com autenticação para testes e um painel de usuário com funcionalidades essenciais de operações bancárias. O sistema foi desenvolvido seguindo as melhores práticas de gestão de configuração de software.
 
 ## Funcionalidades
 
 ### Tela de Login
 - Autenticação de usuários
-- **Login Fake** para ambiente de testes
+- Login para ambiente de testes
 - Design moderno com gradiente
 - Validação de campos
 - Feedback visual de erros
@@ -233,18 +233,18 @@ cd bank-system
 
 3. Abra o arquivo `index.html` em seu navegador
 
-### Login Fake (Ambiente de Testes)
+### Login (Ambiente de Testes)
 
 Para acessar o sistema em modo de teste:
 
 - **Usuário:** `teste`
 - **Senha:** `1234`
 
-Ou clique no link "Login Fake" na tela de login para preenchimento automático.
+Ou clique no link "Login Teste" na tela de login para preenchimento automático.
 
 ### Funcionalidades Disponíveis
 
-1. Acesse o sistema usando as credenciais fake
+1. Acesse o sistema usando as credenciais
 2. Explore o dashboard com informações da conta
 3. Navegue entre as seções usando o menu lateral
 4. Visualize o saldo e transações recentes
@@ -277,7 +277,7 @@ O projeto segue rigorosas práticas de gestão de configuração:
 
 ⚠️ **IMPORTANTE**: Este é um sistema de demonstração.
 
-- O **Login Fake** é apenas para fins de teste
+- O Login Teste é apenas para fins de teste
 - Não utilize em ambiente de produção
 - Não armazena dados reais
 - Não implementa criptografia real
@@ -288,7 +288,7 @@ O projeto segue rigorosas práticas de gestão de configuração:
 - Demonstrar interface moderna de sistema bancário
 - Implementar responsividade completa
 - Aplicar conceitos de gestão de configuração de software
-- Criar ambiente de testes com Login Fake
+- Criar ambiente de testes com Login
 - Documentar adequadamente o projeto
 
 ## Versão
